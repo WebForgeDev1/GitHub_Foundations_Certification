@@ -1,0 +1,4 @@
+Your branch **** has been pushed, and GitHub is showing the right next step. Click **Compare & pull request**.
+
+
+On the next screen, check that **base** is  and **compare** is . Add a title and description, then click **Create pull request**. You don’t need to type  in the terminal for this step.

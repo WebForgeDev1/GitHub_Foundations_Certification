@@ -1,0 +1,4 @@
+Num   Prénom       Salairs
+1     Amine        2 500 €
+2     Sarah        3 000 €
+3     Youssef      2 800 €
